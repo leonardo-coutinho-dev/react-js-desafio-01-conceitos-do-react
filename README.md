@@ -16,6 +16,13 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplic
 
 Aplicação estruturada e funcionando, para rodar no seu dispositivo siga as seguintes instruções:
 
+* Obs.: tenha todas as seguintes ferramentas instaladas no seu dispositivo antes de tentar rodar essa aplicação:
+
+I. VSCode (recomendado)
+II. Node.js
+III. Npm
+IV. Yarn
+
 Primeiro, digite no seu terminal de comando:
 
 ```
